@@ -4,7 +4,7 @@ Felipe's Portfolio
 
 ## 🎮 Roblox Developer | Lua Programmer
 I create Roblox systems focused on Roleplay games, vehicles and realistic mechanics.
-Contributed to experiences with 1.2M+ total visits
+Contributed to experiences with 1.3M+ total visits
 ---
 
 ## 🛠️ Skills
