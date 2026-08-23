@@ -1,18 +1,16 @@
 # Portfolio
-Felipe's Portfolio
-# 👋 Hi, I'm Felipe
+# Helloo, I'm Felipe!
 
 ## 🎮 Roblox Developer | Lua Programmer
-I create Roblox systems focused on Roleplay games, vehicles and realistic mechanics.
-Contributed to experiences with 1.5M+ total visits
+I create Roblox systems focused on Roleplay games & vehicles.
+Contributed to 1.5M+ visits!!
 ---
 
 ## 🛠️ Skills
 
-- Lua / Roblox Lua
 - Roblox Studio
 - Vehicle Systems
-- UI Systems
+- UI Systems -- improving
 - DataStore
 - AI Traffic Systems --Still learning
 - A-Chassis
@@ -25,23 +23,8 @@ Contributed to experiences with 1.5M+ total visits
 
 A realistic American Roleplay experience based on County-side Illinois.
 
-Features:
-- 🚘 Custom vehicle systems
-- 🌎 Large map development
-
 Discord
 https://discord.gg/aKJq4UxEbD
----
-
-# 📂 Scripts
-
-Here you can find examples of my work:
-
-- Vehicle Systems
-- UI Scripts
-- DataStore Systems
-- Gameplay Mechanics
-
 ---
 
 # 📞 Contact me!
